@@ -2278,78 +2278,78 @@ patates yahni white fish + puttanesca Chettiar aubergine curry (Kochhar) Courget
 
 **Fri**: pizza, green salad(Bertinet)
 
-**Sat**: stuffed aubergine, falafal, braised chard + avolo nero
+**Sat**: stuffed aubergine, falafal, braised chard + cavolo nero
 
-**Sun**:
+**Sun**: stuffed aubergine, falafal, roast cauliflower, cherokee beans
 
 **Drinks**: coffee, peppermint tea\
-**Spices**: chilli, coriander\
+**Spices**: chilli, coriander, cumin, turmeric\
 **Herbs**: parsley, bay, sage, rosemary\
-**Vegetables**: peas, red onion, tomatoes, romanesco, chard, cavolo nero, courgette, sweet potato, celeriac, onion, red pepper, yellow pepper, green beans, squash, peas, yelllow carrot, olives, salad leaves\
-**Pulses / grains**: chick peas, brown lentils, red lentils, oats\
+**Vegetables**: peas, red onion, tomatoes, romanesque, chard, cavolo nero, courgette, sweet potato, celeriac, onion, red pepper, yellow pepper, green beans, squash, peas, yellow carrot, olives, salad leaves, lemon, coconut, garlic, cauliflower, aubergine\
+**Pulses / grains**: chick peas, brown lentils, red lentils, oats, cherokee beans\
 **Nuts**: cashew, walnut, pumpkin seeds\
 **Fruit**: satsuma, banana, raspberry, blueberry, pomegranate\
 **Other**: tofu\
 
 #### 96 Monday 01-12-2025 to Sunday 07-12-2025
 
-**Mon**:
+**Mon**: salmon, baked potato, green beans, cherokee beans
 
-**Tue**:
+**Tue**: leek soup
 
-**Wed**:
+**Wed**: tomato, red pepper soup
 
-**Thu**:
+**Thu**: dull dal
 
-**Fri**:
+**Fri**: roast romanesco, tinned salmon
 
-**Sat**:
+**Sat**: mixed mushrooms, broccoli, swede mash
 
-**Sun**:
+**Sun**: chick peas
 
-**Drinks**:\
-**Spices**:\
-**Herbs**:\
-**Vegetables**:\
-**Pulses / grains**:\
-**Nuts**:\
-**Fruit**:\
-**Other**:\
+**Drinks**: turmeric tea, coffee, peppermint tea\
+**Spices**: cumin, chilli, turmeric, ras el hanout\
+**Herbs**: parsley, coriander\
+**Vegetables**: green beans, red onion, olives, red pepper, sweet potato, parsnip, celeriac, garlic, onion, potato, leek, cavolo nero, chard, spinach, romanesco, mushrooms, broccoli, swede\
+**Pulses / grains**: oats, cherokee beans, red lentil, chick peas\
+**Nuts**: walnut, almond, cashew, pumpkin seeds\
+**Fruit**: pomegranate, blueberry, satsuma, banana, raspberry\
+**Other**: tofu, sauerkraut\
 
 #### 97 Monday 08-12-2025 to Sunday 14-12-2025
 
-**Mon**:
+**Mon**: vegetable chilli (Cloake)
 
-**Tue**:
+**Tue**: pasta e fagioli (Roddy)
 
-**Wed**:
+**Wed**: noodle soup, peas, red pepper, sea food
 
-**Thu**:
+**Thu**: noodle soup, peas, red pepper, courgette, cavolo nero, prawns
 
-**Fri**:
+**Fri**: Tarka dal (sodha)
 
-**Sat**:
+**Sat**: patates yahni
 
-**Sun**:
+**Sun**: leek, courgette, coconut soup
 
-**Drinks**:\
-**Spices**:\
-**Herbs**:\
-**Vegetables**:\
-**Pulses / grains**:\
-**Nuts**:\
-**Fruit**:\
-**Other**:\
+**Drinks**: coffee, turmeric tea, peppermint tea\
+**Spices**: chilli, pepper flakes, cumin, coriander, ginger\
+**Herbs**: coriander, watercress, bay, parsley, curry leaves, basil\
+**Vegetables**: onion, tomato, avocado, garlic, tomato, red pepper, peas, celeriac, parsnip, olives, sweet potato, purple carrot, yellow carrot, yellow pepper, chard, cavolo nero, red onion, green beans
+**Pulses / grains**: oats, kidney beans, chick peas, cannellini beans, butter beans, black beans, mung dal\
+**Nuts**: walnut, cashew, almond, pumpkin seeds\
+**Fruit**: banana, blueberries, pomegranate, raspberries\
+**Other**: tofu, sauerkraut\
 
 #### 98 Monday 15-12-2025 to Sunday 21-12-2025
 
-**Mon**:
+**Mon**: baked potato, salmon, peas
 
-**Tue**:
+**Tue**: dal + rice (Totnes streetfood)
 
-**Wed**:
+**Wed**: puttanesca, roast sprouts
 
-**Thu**:
+**Thu**: kidney beans, cavolo nero, coconut milk, cumin, coriander
 
 **Fri**:
 
@@ -2357,14 +2357,14 @@ patates yahni white fish + puttanesca Chettiar aubergine curry (Kochhar) Courget
 
 **Sun**:
 
-**Drinks**:\
-**Spices**:\
-**Herbs**:\
-**Vegetables**:\
-**Pulses / grains**:\
-**Nuts**:\
-**Fruit**:\
-**Other**:\
+**Drinks**: coffee\
+**Spices**: coriander, chilli, cumin, mustard seeds\
+**Herbs**: parsley, coriander, curry leaves\
+**Vegetables**: celeriac, parsnip, sweet potato, olives, purple sprouts, tomato, capers, olives ,onions, cavolo nero, red onion, garlic, coconut\
+**Pulses / grains**: pinto beans, cannellini beans, oats, kidney beans\
+**Nuts**: almond, walnut, pecan, cashew, pumpkin seeds\
+**Fruit**: banana, blueberries, raspberries, pomegranate, satsuma\
+**Other**: tofu, sauerkraut\
 
 #### 99 Monday 22-12-2025 to Sunday 28-12-2025
 
@@ -2392,6 +2392,106 @@ patates yahni white fish + puttanesca Chettiar aubergine curry (Kochhar) Courget
 **Other**:\
 
 #### 100 Monday 29-12-2025 to Sunday 04-01-2026
+
+**Mon**:
+
+**Tue**:
+
+**Wed**:
+
+**Thu**:
+
+**Fri**:
+
+**Sat**:
+
+**Sun**:
+
+**Drinks**:\
+**Spices**:\
+**Herbs**:\
+**Vegetables**:\
+**Pulses / grains**:\
+**Nuts**:\
+**Fruit**:\
+**Other**:\
+
+#### 101 Monday 05-01-2026 to Sunday 11-01-2026
+
+**Mon**:
+
+**Tue**:
+
+**Wed**:
+
+**Thu**:
+
+**Fri**:
+
+**Sat**:
+
+**Sun**:
+
+**Drinks**:\
+**Spices**:\
+**Herbs**:\
+**Vegetables**:\
+**Pulses / grains**:\
+**Nuts**:\
+**Fruit**:\
+**Other**:\
+
+#### 102 Monday 12-01-2026 to Sunday 18-01-2026
+
+**Mon**:
+
+**Tue**:
+
+**Wed**:
+
+**Thu**:
+
+**Fri**:
+
+**Sat**:
+
+**Sun**:
+
+**Drinks**:\
+**Spices**:\
+**Herbs**:\
+**Vegetables**:\
+**Pulses / grains**:\
+**Nuts**:\
+**Fruit**:\
+**Other**:\
+
+#### 103 Monday 19-01-2026 to Sunday 25-01-2026
+
+**Mon**:
+
+**Tue**:
+
+**Wed**:
+
+**Thu**:
+
+**Fri**:
+
+**Sat**:
+
+**Sun**:
+
+**Drinks**:\
+**Spices**:\
+**Herbs**:\
+**Vegetables**:\
+**Pulses / grains**:\
+**Nuts**:\
+**Fruit**:\
+**Other**:\
+
+#### 104 Monday 26-01-2026 to Sunday 01-02-2026
 
 **Mon**:
 
