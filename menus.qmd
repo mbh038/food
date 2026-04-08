@@ -363,7 +363,7 @@ Veg Stock x1
 **Sun**: Gujarati dal (Gowardhan)
 
 **Drinks**: coffee, peppermint tea, turmeric tea.\
-**Spices**: cumin, turmeric, coriander, ginger, berbere mix, green chilli, thyme, tamarind,asafoetida, curry leaves, mustard seeds.\
+**Spices**: cumin, turmeric, coriander, ginger, berbere mix, green chilli, thyme, tamarind, asafoetida, curry leaves, mustard seeds.\
 **Herbs**: basil, coriander, parsley, mint.\
 **Vegetables**: avocado, squash, onion, sweet potato, courgette, celeriac, parsnip, red pepper, tomato, red onion, broccoli, spinach, potato, lime, carrot, mushroom, pak choi, peas, fennel.\
 **Pulses / grains**: red lentils, edamame beans, chick pea, butter beans, kala chick pea, oats, haricot beans, toor dal.\
@@ -2572,152 +2572,202 @@ patates yahni white fish + puttanesca Chettiar aubergine curry (Kochhar) Courget
 
 **Tue**: vegetable paella (Ottolenghi)
 
-**Wed**: turkish aubergine pide, roast broccoli (Webster Rebel)
+**Wed**: Turkish aubergine pide, roast broccoli (Webster Rebel)
 
-**Thu**:
+**Thu**: salmon, rice pilau, roast cauliflower, steamed leek
 
-**Fri**:
+**Fri**: leek + white beans, hot feta + romesco + peanuts, split pea dip (Ajok in Kingsbridge)
 
-**Sat**:
+**Sat**: cauliflower soup, japanese greens, chick peas
 
-**Sun**:
+**Sun**: patates yahni (Jones)
 
 **Drinks**: coffee, turmeric tea\
-**Spices**: ras el hanout, sweet paprika, smoked paprika, turmeric, saffron, fennel\
+**Spices**: ras el hanout, sweet paprika, smoked paprika, turmeric, saffron, fennel, cumin, coriander, all spice, oregano\
 **Herbs**: basil, parsley, bay, sage, mint\
-**Vegetables**: japanese greens, onion, spinach, fennel, red onion, spring onion, carrot, celery, tomato, artichoke, olive, yellow pepper, garlic, broad beans, orange pepper, aubergine, broccoli\
-**Pulses / grains**: toor dal, red lentils, oats\
-**Nuts**: hazel, walnut, almond, pumpkin seeds, tahini\
+**Vegetables**: japanese greens, onion, spinach, fennel, red onion, spring onion, carrot, celery, tomato, artichoke, olive, yellow pepper, garlic, broad beans, orange pepper, aubergine, broccoli, leek, cauliflower, red pepper, capers\
+**Pulses / grains**: toor dal, red lentils, oats, chick peas, cannellini beans, yellow split peas\
+**Nuts**: hazel, walnut, almond, pumpkin seeds, tahini, peanuts\
 **Fruit**: raspberry, blueberry, pomegranate\
 **Other**: tofu, sauerkraut\
 
 #### 108 Monday 23-02-2026 to Sunday 01-03-2026
 
-**Mon**:
+**Mon**: Pearl barley + carrot (HFW)
 
-**Tue**:
+**Tue**: Tomato, sweet potato, cannellini bean soup, Dukha (Jones)
 
-**Wed**:
+**Wed**: Dull dal
 
-**Thu**:
+**Thu**: glass noodles, purple sprouting broccoli, mussels
 
-**Fri**:
+**Fri**: chick pea coconut curry
 
-**Sat**:
+**Sat**: courgette, potato, cannellini bean + rosemary soup (Roddy)
 
-**Sun**:
+**Sun**: glass noodles, prawns, pak choi, red pepper, roast cauliflower
 
-**Drinks**:\
-**Spices**:\
-**Herbs**:\
-**Vegetables**:\
-**Pulses / grains**:\
-**Nuts**:\
-**Fruit**:\
-**Other**:\
+**Drinks**: peppermint tea, turmeric tea, coffee\
+**Spices**: mace, cumin, coriander, cinnamon, smoked paprika, turmeric, ras el hanout, ginger, chilli\
+**Herbs**: bay, sage, coriander, parsley\
+**Vegetables**: celery, onion, carrot, japanese greens, red onion, olive, sweet potato, tomato, spring onion, garlic, chard, parsnip, purple broccoli, peas, coconut, courgette, pak choi, orange pepper, red pepper, cauliflower\
+**Pulses / grains**: pearl barley, green split peas, oats, cannellini beans, red lentils, pinto beans, black beans, chick peas\
+**Nuts**: hazel, almond, cashew, pumpkin seeds, walnut\
+**Fruit**: blueberry, pomegranate, blackcurrants, raspberry, redcurrants, banana\
+**Other**: tofu, sauerkraut, vegetable stock\
 
 #### 109 Monday 02-03-2026 to Sunday 08-03-2026
 
-**Mon**:
+**Mon**: puttanesca, linguini, japanese greens
 
-**Tue**:
+**Tue**: white fish basa curry (Sodha), green beans
 
-**Wed**:
+**Wed**: roast vegetable, baked potato, japanese greens
 
-**Thu**:
+**Thu**: rice and 'peas' (Cloake), tinned salmon, japanese greens
 
-**Fri**:
+**Fri**: rice and 'peas', mushrooms, cabbage, japanese greens.
 
-**Sat**:
+**Sat**: Toor dal, tomato, potato and chard (Miers)
 
-**Sun**:
+**Sun**: Kedgeree (HFW), japanese greens
 
-**Drinks**:\
-**Spices**:\
-**Herbs**:\
-**Vegetables**:\
-**Pulses / grains**:\
-**Nuts**:\
-**Fruit**:\
-**Other**:\
+**Drinks**: coffee, peppermint tea, turmeric tea\
+**Spices**: cumin, chilli, coriander, turmeric, smoked paprika, all spice, berbere\
+**Herbs**: curry leaves, parsley, coriander, bay, sage\
+**Vegetables**: tomato, coconut, red onion, capers, garlic, olives, japanese greens, green beans, onion, ginger, red chilli, courgette, shallot, aubergine, mushrooms, cabbage, peas, orange pepper, leek, chard, red chard\
+**Pulses / grains**: black beans, chick peas, mung beans, kidney beans, toor dal\
+**Nuts**: cashew, walnut, almond, pecan, pumpkin seeds\
+**Fruit**: redcurrant, blackberry, raspberry, blueberry, pomegranate\
+**Other**: tofu, sauerkraut\
 
 #### 110 Monday 09-03-2026 to Sunday 15-03-2026
 
-**Mon**:
+**Mon**: courgette, leek soup
 
-**Tue**:
+**Tue**: pasta, hake, prawns, onions, japanese greens
 
-**Wed**:
+**Wed**: mackerel, potato salad
 
-**Thu**:
+**Thu**: lentil, courgette soup
 
-**Fri**:
+**Fri**: VFT, romesco, courgette salad (Mike and Rosy here)
 
-**Sat**:
+**Sat**: VFT, romesco, courgette salad
 
-**Sun**:
+**Sun**: courgette, chick pea, rosemary soup (Roddy)
 
-**Drinks**:\
-**Spices**:\
-**Herbs**:\
-**Vegetables**:\
-**Pulses / grains**:\
-**Nuts**:\
-**Fruit**:\
-**Other**:\
+**Drinks**: coffee, peppermint tea\
+**Spices**: chilli\
+**Herbs**: bay, sage, fennel, coriander, rosemary\
+**Vegetables**: japanese greens, red onion, onion, orange pepper, leeks, garlic, courgette, red pepper, green beans, capers, tomato, sweet potato, aubergine\
+**Pulses / grains**: oats, haricot beans, mung beans, red lentils, chick peas\
+**Nuts**: walnut, cashew, pecan, almond, pine nut\
+**Fruit**: raspberries, blueberries, pomegranate\
+**Other**: tofu, sauerkraut, vegetable stock\
 
 #### 111 Monday 16-03-2026 to Sunday 22-03-2026
 
-**Mon**:
+**Mon**: White fish in tomato sauce with capers and olives + broccoli (Roddy).
 
-**Tue**:
+**Tue**: dull dal
 
-**Wed**:
+**Wed**: glass noodles, peppers, mussels, coriander
 
-**Thu**:
+**Thu**: patates yahni + green beans
 
-**Fri**:
+**Fri**: sea bass, peas, cannellini beans
 
-**Sat**:
+**Sat**: mushrooms, pearl barley, parsley (Slater)
 
-**Sun**:
+**Sun**: Minestroni (Roddy-ish)
 
-**Drinks**:\
-**Spices**:\
-**Herbs**:\
-**Vegetables**:\
-**Pulses / grains**:\
-**Nuts**:\
-**Fruit**:\
-**Other**:\
+**Drinks**: coffee, peppermint tea\
+**Spices**: chilli, all spice, curry powder, onion seeds\
+**Herbs**: parsley, coriander, oregano, bay\
+**Vegetables**: japanese greens, red pepper, capers, tomato, garlic, onion, courgette, yellow pepper, spinach, olive, red onion, green beans, orange pepper, mushrooms, spring onion, cabbage, carrot, celery, leek, chard\
+**Pulses / grains**: chick peas, red lentil, cannellini beans, black beans, pearl barley, butter beans\
+**Nuts**: cashew, walnut, pumpkin seeds\
+**Fruit**: raspberry, blueberry, banana, pomegranate\
+**Other**: tofu, sauerkraut, vegetable stock\
 
 #### 112 Monday 23-03-2026 to Sunday 29-03-2026
 
-**Mon**:
+**Mon**: Minestroni (Roddy-ish)
 
-**Tue**:
+**Tue**: Pearl barley + celery + carrot. (HFW)
 
-**Wed**:
+**Wed**: Pasta + courgette + edamame beans + basil, green beans (Ottolenghi)
 
-**Thu**:
+**Thu**: courgette, chick pea, leek, rosemary soup (Roddy)
 
-**Fri**:
+**Fri**: sea bass and chips, peas (homemade)
 
-**Sat**:
+**Sat**: lentil ragu, shepherd's pie (Ottolenghi)
 
-**Sun**:
+**Sun**: rice, cherokee beans,white fish paella
 
-**Drinks**:\
-**Spices**:\
-**Herbs**:\
-**Vegetables**:\
-**Pulses / grains**:\
-**Nuts**:\
-**Fruit**:\
-**Other**:\
+**Drinks**: coffee\
+**Spices**: mace, coriander, cayenne pepper, nutmeg, chilli, harissa, cumin, sweet paprika, smoked paprika, turmeric\
+**Herbs**: parsley, basil, rosemary, coriander\
+**Vegetables**: japanese greens, onion, mushroom, garlic, celery, red onion, cabbage, carrot, courgette, tomato, orange pepper, green beans, capers, lemon, parsnip, sweet potato, purple carrot, leek, red pepper, coconut\
+**Pulses / grains**: pearl barley, butter bean, cannellini bean, edamame bean, chick pea, brown lentil, cherokee bean\
+**Nuts**: pecan, hazelnut, walnut, cashew, almond\
+**Fruit**: raspberry, pomegranate, banana, blueberry, satsuma\
+**Other**: tofu, sauerkraut, vegetable stock, miso\
 
 #### 113 Monday 30-03-2026 to Sunday 05-04-2026
 
+**Mon**: glass noodles, salmon, vegetables
+
+**Tue**: courgette, lentil soup
+
+**Wed**: baked potato, peas, roast cauliflower
+
+**Thu**: ragu (Ottolenghi), broccoli, linguini
+
+**Fri**: glass noodles, mussels, cabbage, parsley
+
+**Sat**: celeriac, leek soup with mushrooms, pearl barley
+
+**Sun**: white fish curry (Sodha)
+
+**Drinks**: coffee, peppermint tea\
+**Spices**: cumin, coriander, ginger, turmeric, chilli\
+**Herbs**: parsley, coriander, basil\
+**Vegetables**: red peppers, japanese greens, courgette, carrot, cabbage, onion, garlic, cauliflower, peas, olive, yellow pepper, leek, mushrooms, tomato, sweet potato, parsnip, broccoli\
+**Pulses / grains**: chick peas, cherokee beans, red lentils, oats, brown lentils, pearl barley, pinto beans\
+**Nuts**: pecan, walnut, cashew, almond, pumpkin seeds\
+**Fruit**: raspberry, pomegranate, blueberry, banana, satsuma, pineapple\
+**Other**: tofu, sauerkraut, vegetable stock, miso\
+
+#### 114 Monday 06-04-2026 to Sunday 12-04-2026
+
+**Mon**: cannellini bean, potato, rosemary, japanese greens soup
+
+**Tue**: puttanesca (Roddy) + broccoli
+
+**Wed**: cauliflower, red onion, peas (Iyer)
+
+**Thu**:
+
+**Fri**:
+
+**Sat**:
+
+**Sun**:
+
+**Drinks**: coffee, peppermint tea\
+**Spices**: chilli, cinnamon, cardamon\
+**Herbs**: rosemary, parsley\
+**Vegetables**: leek, garlic, yellow pepper, japanese greens, chard, tomato, capers, olives, onion, broccoli, green beans, cauliflower, red onion\
+**Pulses / grains**: cannellini beans, pinto beans, chick peas, oats\
+**Nuts**: tahini, walnut, almond, pecan, pumpkin seeds\
+**Fruit**: pineapple, blueberry, raspberry, pomegranate\
+**Other**: tofu, sauerkraut, vegetable stock\
+
+#### 115 Monday 13-04-2026 to Sunday 19-04-2026
+
 **Mon**:
 
 **Tue**:
@@ -2741,7 +2791,107 @@ patates yahni white fish + puttanesca Chettiar aubergine curry (Kochhar) Courget
 **Fruit**:\
 **Other**:\
 
-#### 114 Monday 06-04-2026 to Sunday 12-04-2026
+#### 116 Monday 20-04-2026 to Sunday 26-04-2026
+
+**Mon**:
+
+**Tue**:
+
+**Wed**:
+
+**Thu**:
+
+**Fri**:
+
+**Sat**:
+
+**Sun**:
+
+**Drinks**:\
+**Spices**:\
+**Herbs**:\
+**Vegetables**:\
+**Pulses / grains**:\
+**Nuts**:\
+**Fruit**:\
+**Other**:\
+
+#### 117 Monday 27-04-2026 to Sunday 03-05-2026
+
+**Mon**:
+
+**Tue**:
+
+**Wed**:
+
+**Thu**:
+
+**Fri**:
+
+**Sat**:
+
+**Sun**:
+
+**Drinks**:\
+**Spices**:\
+**Herbs**:\
+**Vegetables**:\
+**Pulses / grains**:\
+**Nuts**:\
+**Fruit**:\
+**Other**:\
+
+#### 118 Monday 04-05-2026 to Sunday 10-05-2026
+
+**Mon**:
+
+**Tue**:
+
+**Wed**:
+
+**Thu**:
+
+**Fri**:
+
+**Sat**:
+
+**Sun**:
+
+**Drinks**:\
+**Spices**:\
+**Herbs**:\
+**Vegetables**:\
+**Pulses / grains**:\
+**Nuts**:\
+**Fruit**:\
+**Other**:\
+
+#### 119 Monday 11-05-2026 to Sunday 17-05-2026
+
+**Mon**:
+
+**Tue**:
+
+**Wed**:
+
+**Thu**:
+
+**Fri**:
+
+**Sat**:
+
+**Sun**:
+
+**Drinks**:\
+**Spices**:\
+**Herbs**:\
+**Vegetables**:\
+**Pulses / grains**:\
+**Nuts**:\
+**Fruit**:\
+**Other**:\
+
+#### 120 Monday 18-05-2026 to Sunday 24-05-2026
 
 **Mon**:
 
