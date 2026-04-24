@@ -2749,57 +2749,57 @@ patates yahni white fish + puttanesca Chettiar aubergine curry (Kochhar) Courget
 
 **Wed**: cauliflower, red onion, peas (Iyer)
 
-**Thu**:
+**Thu**: cannellini beans, potato, japanese greens, rosemary
 
-**Fri**:
+**Fri**: noodles, greens, mushrooms, mussels, sprouts
 
-**Sat**:
+**Sat**: puy lentils, tomato, paprika, cabbage (Woodhouse)
 
-**Sun**:
+**Sun**: quinoa, tofu, basil, japanese greens, olives, chives
 
 **Drinks**: coffee, peppermint tea\
-**Spices**: chilli, cinnamon, cardamon\
-**Herbs**: rosemary, parsley\
-**Vegetables**: leek, garlic, yellow pepper, japanese greens, chard, tomato, capers, olives, onion, broccoli, green beans, cauliflower, red onion\
-**Pulses / grains**: cannellini beans, pinto beans, chick peas, oats\
+**Spices**: chilli, cinnamon, cardamon, ginger, sweet paprika, smoked paprika\
+**Herbs**: rosemary, parsley, basil, chives\
+**Vegetables**: leek, garlic, yellow pepper, japanese greens, chard, tomato, capers, olives, onion, broccoli, green beans, cauliflower, red onion, sprouts, mushroom, cabbage, avocado, lime, lemon\
+**Pulses / grains**: cannellini beans, pinto beans, chick peas, oats, puy lentils, quinoa\
 **Nuts**: tahini, walnut, almond, pecan, pumpkin seeds\
 **Fruit**: pineapple, blueberry, raspberry, pomegranate\
 **Other**: tofu, sauerkraut, vegetable stock\
 
 #### 115 Monday 13-04-2026 to Sunday 19-04-2026
 
-**Mon**:
+**Mon**: japanese green, coconut, potato, peas (Sodha)
 
-**Tue**:
+**Tue**: split pea, courgette, rosemary, leek soup
 
-**Wed**:
+**Wed**: tortilla (= omelette, Roden), potatoes, beetroot, broccoli
 
-**Thu**:
+**Thu**: vegetable paella (Woodhouse)
 
-**Fri**:
+**Fri**: sea bass, chips and peas
 
-**Sat**:
+**Sat**: vegetable stir fry, mussels, glass noodles
 
 **Sun**:
 
-**Drinks**:\
-**Spices**:\
-**Herbs**:\
-**Vegetables**:\
-**Pulses / grains**:\
-**Nuts**:\
-**Fruit**:\
-**Other**:\
+**Drinks**: coffee, peppermint tea\
+**Spices**: chilli, turmeric, garam masala, cumin, sweet paprika, smoked paprika, saffron, ginger\
+**Herbs**: basil, chives, mint\
+**Vegetables**: lemon, japanese greens, peas, onion, lime, coconut, leek, carrot, red onion, courgette, aubergine, broccoli, beetroot, mushrooms, cabbage, red pepper, green pepper, tomato, garlic\
+**Pulses / grains**: chick peas, quinoa, split peas, green lentils, pinto beans, mung beans\
+**Nuts**: tahini, walnut, hazelnut, pumpkin seeds, pecan, cashew\
+**Fruit**: raspberry, blueberry\
+**Other**: tofu, sauerkraut, vegetable stock, miso\
 
 #### 116 Monday 20-04-2026 to Sunday 26-04-2026
 
-**Mon**:
+**Mon**: puy lentils, tomato, paprika, green beans (Woodhouse)
 
-**Tue**:
+**Tue**: leek, courgette, potato and lentil soup
 
-**Wed**:
+**Wed**: green pepper, japanese greens, tomato, coconut, prawn curry (Iyer)
 
-**Thu**:
+**Thu**: miso rice, mung beans, peas, potato + quino, grilled savoy cabbage
 
 **Fri**:
 
@@ -2807,14 +2807,14 @@ patates yahni white fish + puttanesca Chettiar aubergine curry (Kochhar) Courget
 
 **Sun**:
 
-**Drinks**:\
-**Spices**:\
-**Herbs**:\
-**Vegetables**:\
-**Pulses / grains**:\
-**Nuts**:\
-**Fruit**:\
-**Other**:\
+**Drinks**: coffee, peppermint tea, turmeric tea\
+**Spices**: smoked paprika, sweet paprika, chilli, turmeric, coriander, cumin\
+**Herbs**: parsley, rosemary, mint\
+**Vegetables**: courgette, onion, red onion, japanese greens, leek, yellow pepper, red pepper, olive, green beans, garlic, lemon, tomato, green pepper, cabbage\
+**Pulses / grains**: oats, red lentils, puy lentils, quinoa, mung beans, chick peas\
+**Nuts**: cashew, pecan, walnut, pumpkin seeds, tahini\
+**Fruit**: redcurrants, blueberries, raspberries, banana\
+**Other**: sauerkraut, kefir, miso, vegetable stock, tofu\
 
 #### 117 Monday 27-04-2026 to Sunday 03-05-2026
 
@@ -2892,6 +2892,56 @@ patates yahni white fish + puttanesca Chettiar aubergine curry (Kochhar) Courget
 **Other**:\
 
 #### 120 Monday 18-05-2026 to Sunday 24-05-2026
+
+**Mon**:
+
+**Tue**:
+
+**Wed**:
+
+**Thu**:
+
+**Fri**:
+
+**Sat**:
+
+**Sun**:
+
+**Drinks**:\
+**Spices**:\
+**Herbs**:\
+**Vegetables**:\
+**Pulses / grains**:\
+**Nuts**:\
+**Fruit**:\
+**Other**:\
+
+#### 121 Monday 25-05-2026 to Sunday 31-05-2026
+
+**Mon**:
+
+**Tue**:
+
+**Wed**:
+
+**Thu**:
+
+**Fri**:
+
+**Sat**:
+
+**Sun**:
+
+**Drinks**:\
+**Spices**:\
+**Herbs**:\
+**Vegetables**:\
+**Pulses / grains**:\
+**Nuts**:\
+**Fruit**:\
+**Other**:\
+
+#### 122 Monday 01-06-2026 to Sunday 07-06-2026
 
 **Mon**:
 
